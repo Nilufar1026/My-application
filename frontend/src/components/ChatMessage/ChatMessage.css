@@ -1,0 +1,16 @@
+.chatWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:white;  
+}
+
+.chatContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: whitesmoke;
+    height: 60%;
+    width: 25%;
+}

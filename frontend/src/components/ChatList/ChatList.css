@@ -1,0 +1,17 @@
+.listWrapper{
+    height: 8vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1,h3{
+    color:white
+}
+.close{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%; 
+}

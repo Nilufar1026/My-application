@@ -1,0 +1,60 @@
+.messageBox {
+  height: 30px;
+  padding: 0px 20px;
+  display: inline-block;
+  max-width: 80%;
+  background-color: #7AC4D4;
+  border-radius: 5%;
+}
+  
+.sendText {
+  width: 100%;
+  letter-spacing: 0;
+  float: left;
+  font-size: 1.1em;
+  word-wrap: break-word;
+  color: black;
+}
+  
+.messageWrapper {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 5%;
+  margin-top: 3px;
+}
+  
+.sendName {
+  display: flex;
+  align-items: center;
+  font-family: Helvetica;
+  letter-spacing: 0.3px;
+}
+ 
+.pl-10 {
+  padding-left: 10px;
+  color: black;
+}
+  
+.pr-10 {
+  padding-right: 10px;
+  color: black;
+}
+  
+.justifyStart {
+  justify-content: flex-start;
+}
+  
+.justifyEnd {
+  justify-content: flex-end;
+}
+
+p.sendText{
+  margin: auto;
+  margin-top: 3px;
+}
+
+  
+
+  
+
+  

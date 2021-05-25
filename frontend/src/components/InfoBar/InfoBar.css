@@ -1,0 +1,33 @@
+.infoWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    width: 100%;
+    background: black;
+}
+.infoContainer{
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+    
+}
+.infoContainer>h3,.activeItem>h3{
+    color: black;
+    font-size: 20px;
+}
+.activeItem>h3{
+    margin-right: 20px;
+}
+.member,h2{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    color:#FF4242;
+}
+
+
+
+
+
